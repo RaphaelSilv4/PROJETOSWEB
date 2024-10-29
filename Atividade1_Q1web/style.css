@@ -1,0 +1,25 @@
+p {
+    display: inline;
+    color: white;
+    border-radius: 5px;
+    background-color: rgb(70, 70, 166);
+    margin: 10px;
+    padding: 5px;
+}
+
+header {
+    background-color: aquamarine;
+    text-align: center;
+    padding: 3px;
+}
+
+footer {
+    background-color: aquamarine;
+    text-align: center;
+    padding: 2px;
+}
+
+main {
+    padding: 3%;
+    text-align: center;
+}
